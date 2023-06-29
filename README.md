@@ -1,2 +1,2 @@
 # SolarPoweredPhone
-Practice css and css by creating a interesting landing page
+Practice CSS and HTML, by creating an interesting landing page.
